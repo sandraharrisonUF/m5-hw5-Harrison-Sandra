@@ -1,0 +1,13 @@
+main {
+    background-image: -webkit-image-set("colorful-background.jpg");
+    background-color: cccccc;
+    height: 640px; width: 960px;
+    background-position: center;
+    background-size: cover;
+}
+header {
+    background-color: white;
+        h1 {
+            
+    } 
+}
